@@ -1,0 +1,29 @@
+.Title {
+    text-align: center;
+    padding: 50px 0 0 0;
+    font-size: 2.4rem;
+}
+
+.Menu {
+    padding: 10px 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.Menu button {
+    font-size: 1rem;
+    padding: 10px 12px;
+    border: 2px solid darkslateblue;
+    border-radius: 6px;
+    background-color: #92bbdd;
+}
+
+.Section {
+    background-color: #d5e8f8;
+    justify-self: center;
+    width: 80vw;
+    border: 2px solid darkslateblue;
+    border-radius: 6px;
+    padding: 5px 20px;
+}
