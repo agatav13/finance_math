@@ -8,6 +8,7 @@ export default function App() {
         <button type="button">Investment</button>
         <button type="button">Investment</button>
         <button type="button">Investment</button>
+        <button type="button">Investment</button>
       </div>
       <div className="Section">
         <h2>title</h2>
